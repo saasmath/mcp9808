@@ -1,0 +1,24 @@
+{
+  "name": "mcp9808",
+  "version": "0.0.1",
+  "description": "MCP9808 high accuracy i2c temperature sensor monitor",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/saasmath/mcp9808"
+  },
+  "keywords": [
+    "temperature",
+    "sensor",
+    "i2c",
+    "mcp9808"
+  ],
+  "author": "Gary Anderson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saasmath/mcp9808/issues"
+  },
+  "homepage": "https://github.com/saasmath/mcp9808"
+}
